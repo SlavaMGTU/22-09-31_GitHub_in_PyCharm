@@ -1,3 +1,0 @@
-2+2=4
-2+3=4 (fix error)
-6*6=30 (add error)
